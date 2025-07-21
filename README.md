@@ -39,4 +39,4 @@ Restaurants generate large amounts of data but often don't have the tools or exp
 4. Time series analysis
 5. Menu item performance analysis
 
-## Repository Structure
+## Repository Structure 
